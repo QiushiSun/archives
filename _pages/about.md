@@ -28,32 +28,91 @@ My research interest includes neural machine translation and computer vision. I 
 <!-- /Users/qiushisun/GitHub-Repos/archives/images/paper-thumbnails/KS-Lottery/ks-lottery.png -->
 # 📝 Publications 
 
+
+<!-- Paper -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper-thumbnails/NCISurvey/codelms-tree.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond](https://arxiv.org/abs/2403.14734) 🔥🔥
+
+**Qiushi Sun**, Zhirui Chen, Fangzhi Xu, Chang Ma, Kanzhi Cheng, Zhangyue Yin, Jianing Wang, Chengcheng Han, Renyu Zhu, Shuai Yuan, Pengcheng Yin, Qipeng Guo, Xipeng Qiu, Xiaoli Li, Fei Yuan, Lingpeng Kong, Xiang Li, Zhiyong Wu 
+
+[[Paper]](https://arxiv.org/abs/2403.14734) \| [Slides] \| [[Project]](https://qiushisun.github.io/NCI-Survey-Homapage/)  \| [Video] \| [![](https://img.shields.io/github/stars/QiushiSun/NCISurvey?style=social&label=Code+Stars)](https://github.com/QiushiSun/NCISurvey)
+- Follow LMs for code as a thread to trace the field's development 🚀
+- Explore cross-domain synergies and opportunities 🌱
+- Present a broad array of promising research avenues 💡
+</div>
+</div>
+
+<!-- Paper -->
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper-thumbnails/KS-Lottery/ks-lottery.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [KS-Lottery: Finding Certified Lottery Tickets for Multilingual Language Models](http://arxiv.org/abs/2402.02801)
-<!-- KS-Lottery: Finding Certified Lottery Tickets for Multilingual Language Models -->
 
-Fei Yuan, Chang Ma, Shuai Yuan, Qiushi Sun, Lei Li.
+Fei Yuan, Chang Ma, Shuai Yuan, **Qiushi Sun**, Lei Li.
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-<!-- 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- Paper -->
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint/LLMAgents @ ICLR 2024</div><img src='images/paper-thumbnails/SeeClick/SeeClick.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+[SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2401.10935)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+Kanzhi Cheng, **Qiushi Sun**, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zhiyong Wu.
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Seeclick
+</div>
+</div>
+
+<!-- Paper -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper-thumbnails/SeeClick/SeeClick.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models](https://arxiv.org/abs/2311.09278)
+
+Fangzhi Xu, Zhiyong Wu, **Qiushi Sun**, Siyu Ren, Fei Yuan, Shuai Yuan, Qika Lin, Yu Qiao and Jun Liu.
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- SymbolLLM
+</div>
+</div>
+
+<!-- Paper -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint/LLMAgents @ ICLR 2024</div><img src='images/paper-thumbnails/Corex/Corex.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Corex: Pushing the Boundaries of Complex Reasoning through Multi-Model Collaboration](https://arxiv.org/abs/2310.00280)
+
+**Qiushi Sun**, Zhangyue Yin, Xiang Li, Zhiyong Wu, Xipeng Qiu and Lingpeng Kong.
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Corex
+</div>
+</div>
+
+<!-- Paper -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint/LLMAgents @ ICLR 2024</div><img src='images/paper-thumbnails/CoK/Chain-of-Knowledge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Boosting Language Models Reasoning with Chain-of-Knowledge Prompting](https://arxiv.org/abs/2306.06427)
+
+Jianing Wang<sup>&#42;</sup>, **Qiushi Sun**<sup>&#42;</sup>, Xiang Li and Ming Gao.
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- CoK
+</div>
+</div>
+
+<!-- Paper -->
