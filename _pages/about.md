@@ -75,7 +75,7 @@ Kanzhi Cheng, **Qiushi Sun**, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang
 
 <!-- Paper -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper-thumbnails/SeeClick/SeeClick.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper-thumbnails/Symbol-LLM/Symbol-LLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models](https://arxiv.org/abs/2311.09278)
@@ -103,7 +103,7 @@ Fangzhi Xu, Zhiyong Wu, **Qiushi Sun**, Siyu Ren, Fei Yuan, Shuai Yuan, Qika Lin
 
 <!-- Paper -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint/LLMAgents @ ICLR 2024</div><img src='images/paper-thumbnails/CoK/Chain-of-Knowledge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper-thumbnails/CoK/Chain-of-Knowledge.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Boosting Language Models Reasoning with Chain-of-Knowledge Prompting](https://arxiv.org/abs/2306.06427)
