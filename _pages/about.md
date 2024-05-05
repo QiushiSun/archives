@@ -61,7 +61,7 @@ Fei Yuan, Chang Ma, Shuai Yuan, **Qiushi Sun**, Lei Li.
 
 <!-- Paper -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint/LLMAgents @ ICLR 2024</div><img src='images/paper-thumbnails/SeeClick/SeeClick.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint/LLMAgents @ ICLR'24</div><img src='images/paper-thumbnails/SeeClick/SeeClick.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2401.10935)
@@ -89,7 +89,7 @@ Fangzhi Xu, Zhiyong Wu, **Qiushi Sun**, Siyu Ren, Fei Yuan, Shuai Yuan, Qika Lin
 
 <!-- Paper -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint/LLMAgents @ ICLR 2024</div><img src='images/paper-thumbnails/Corex/Corex.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint/LLMAgents @ ICLR'24</div><img src='images/paper-thumbnails/Corex/Corex.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Corex: Pushing the Boundaries of Complex Reasoning through Multi-Model Collaboration](https://arxiv.org/abs/2310.00280)
@@ -112,6 +112,38 @@ Jianing Wang<sup>&#42;</sup>, **Qiushi Sun**<sup>&#42;</sup>, Xiang Li and Ming 
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - CoK
+</div>
+</div>
+
+<!-- Paper -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LREC-COLING'24</div><img src='images/paper-thumbnails/BBT-RGB/BBT-RGB-Pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Make Prompt-based Black-Box Tuning Colorful: Boosting Model Generalization from Three Orthogonal Perspectives](https://arxiv.org/abs/2305.08088)
+
+**Qiushi Sun**, Chengcheng Han, Nuo Chen, Renyu Zhu, Jingyang Gong, Xiang Li and Ming Gao.
+
+🥈 <span style="color: #C41E3A;"> **100K RMB Award-winning Solution** </span>
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- International Algorithm Case Competition: PLM Tuning, Second Prize, Guangdong-Hong Kong-Macao Greater Bay Area
+</div>
+</div>
+
+<!-- Paper -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM'23</div><img src='images/paper-thumbnails/HugNLP/HugNLP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[HugNLP: A Unified and Comprehensive Library for Natural Language Processing](https://arxiv.org/abs/2302.14286)
+
+Jianing Wang, Nuo Chen, **Qiushi Sun**, Wenkang Huang, Chengyu Wang and Ming Gao.
+
+🏆 **Best Demo Paper Award**</span> <img src='images/paper-thumbnails/HugNLP/hugnlp-logo.png' style='width: 3.95em;'>
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- HugNLP
 </div>
 </div>
 
