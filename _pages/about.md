@@ -148,3 +148,25 @@ Jianing Wang, Nuo Chen, **Qiushi Sun**, Wenkang Huang, Chengyu Wang and Ming Gao
 </div>
 
 <!-- Paper -->
+
+# 🤝 Friends
+
+I feel privileged to have the following peers:
+
+- Fangzhi Xu: PhD candidate from Xi’an Jiaotong University
+
+- Zhangyue Yin: PhD candidate from Fudan NLP
+
+- Zhirui Chen: Master student from DaSE@ECNU
+
+- Jianing Wang: PhD candidate from DaSE@ECNU
+
+- Chengcheng Han: PhD candidate from DaSE@ECNU
+
+- Renyu Zhu: PhD from DaSE@ECNU, Now at NetEase Fuxi AI Lab
+
+- Shuai Yuan: PhD candidate from HKUST
+
+- Siyu Ren: PhD candidate from SJTU
+
+# 😊 Acknowledgement
