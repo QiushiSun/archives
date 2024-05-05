@@ -27,7 +27,8 @@ author:
   location         : "Shanghai / Singapore"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=QgMkYFAAAAAJ&hl=en"
+  semanticscholar  : "https://www.semanticscholar.org/author/Qiushi-Sun/2112455065"
   email            : "thomasqiushi@icloud.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : QiushiSun # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
@@ -49,9 +50,9 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : QiushiSun
   tumblr           :
-  twitter          : 
+  twitter          : qiushi_sun
   vine             :
   weibo            :
   xing             :

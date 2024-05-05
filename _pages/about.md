@@ -140,7 +140,7 @@ Jianing Wang<sup>&#42;</sup>, **Qiushi Sun**<sup>&#42;</sup>, Xiang Li and Ming 
 
 Jianing Wang, Nuo Chen, **Qiushi Sun**, Wenkang Huang, Chengyu Wang and Ming Gao.
 
-🏆 **Best Demo Paper Award**</span> <img src='images/paper-thumbnails/HugNLP/hugnlp-logo.png' style='width: 3.95em;'>
+<span style="color: #C41E3A;"> 🏆 **Best Demo Paper Award**</span> <img src='images/paper-thumbnails/HugNLP/hugnlp-logo.png' style='width: 3.95em;'>
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - HugNLP
