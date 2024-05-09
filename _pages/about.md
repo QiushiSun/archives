@@ -17,7 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+
+A digital sanctuary where my academic journey in Electrical Engineering and Computer Science is chronicled.
+
+<!-- Welcome to my personal EECS study journal, a digital sanctuary where my academic journey in Electrical Engineering and Computer Science is chronicled. Herein lies a collection of insights and revelations, each note a testament to the power of learning and the strength of curiosity. -->
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
@@ -151,22 +156,22 @@ Jianing Wang, Nuo Chen, **Qiushi Sun**, Wenkang Huang, Chengyu Wang and Ming Gao
 
 # 🤝 Friends
 
-I feel privileged to have the following peers:
+I feel privileged to work with the following peers:
 
-- Fangzhi Xu: PhD candidate from Xi’an Jiaotong University
+- [Fangzhi Xu](https://xufangzhi.github.io/): PhD candidate from Xi’an Jiaotong University
 
-- Zhangyue Yin: PhD candidate from Fudan NLP
+- Zhangyue Yin: PhD candidate from [Fudan NLP Lab](https://nlp.fudan.edu.cn/)
 
-- Zhirui Chen: Master student from DaSE@ECNU
+- Zhirui Chen: Master’s student from [DaSE](https://dase.ecnu.edu.cn/), ECNU
 
-- Jianing Wang: PhD candidate from DaSE@ECNU
+- [Jianing Wang](https://wjn1996.github.io/): PhD candidate from [DaSE](https://dase.ecnu.edu.cn/), ECNU
 
-- Chengcheng Han: PhD candidate from DaSE@ECNU
+- [Chengcheng Han](https://hccngu.github.io/): PhD candidate from [DaSE](https://dase.ecnu.edu.cn/), ECNU
 
-- Renyu Zhu: PhD from DaSE@ECNU, Now at NetEase Fuxi AI Lab
+- Renyu Zhu: Postdoctoral Researcher at NetEase Fuxi AI Lab, PhD from [DaSE](https://dase.ecnu.edu.cn/), ECNU
 
-- Shuai Yuan: PhD candidate from HKUST
+- Shuai Yuan: PhD candidate from [KnowComp](https://github.com/HKUST-KnowComp), HKUST
 
-- Siyu Ren: PhD candidate from SJTU
+- [Siyu Ren](https://drsy.github.io/): PhD candidate from SJTU
 
 # 😊 Acknowledgement
