@@ -66,6 +66,19 @@ Fangzhi Xu, **Qiushi Sun**, Kanzhi Cheng, Jun Liu, Yu Qiao, Zhiyong Wu.
 
 <!-- Paper -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2024</div><img src='images/paper-thumbnails/UAG/UAG_New.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Reasoning in Flux: Enhancing Large Language Models Reasoning through Uncertainty-aware Adaptive Guidance](qiushisun.github.io)
+
+Zhangyue Yin, **Qiushi Sun**, Qipeng Guo, Zhiyuan Zeng, Xiaonan Li, Junqi Dai, Qinyuan Cheng, Xuanjing Huang, Xipeng Qiu
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- CoK
+</div>
+</div>
+
+<!-- Paper -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper-thumbnails/KS-Lottery/ks-lottery.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -81,7 +94,7 @@ Fei Yuan, Chang Ma, Shuai Yuan, **Qiushi Sun**, Lei Li.
 
 <!-- Paper -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint/LLMAgents @ ICLR'24</div><img src='images/paper-thumbnails/SeeClick/SeeClick.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024/LLMAgents @ ICLR'24</div><img src='images/paper-thumbnails/SeeClick/SeeClick.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2401.10935)
@@ -95,7 +108,7 @@ Kanzhi Cheng, **Qiushi Sun**, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang
 
 <!-- Paper -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper-thumbnails/Symbol-LLM/Symbol-LLM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/paper-thumbnails/Symbol-LLM/Symbol-LLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models](https://arxiv.org/abs/2311.09278)
@@ -123,7 +136,21 @@ Fangzhi Xu, Zhiyong Wu, **Qiushi Sun**, Siyu Ren, Fei Yuan, Shuai Yuan, Qika Lin
 
 <!-- Paper -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper-thumbnails/CoK/Chain-of-Knowledge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2024</div><img src='images/paper-thumbnails/CodeRethinking/CodeRethinking.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Rethinking the Role of Structural Information: How It Enhances Code Representation Learning?](qiushisun.github.io)
+
+**Qiushi Sun**, Nuo Chen, Jianing Wang and Xiaoli Li.
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- CoK
+</div>
+</div>
+
+<!-- Paper -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/paper-thumbnails/CoK/Chain-of-Knowledge.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Boosting Language Models Reasoning with Chain-of-Knowledge Prompting](https://arxiv.org/abs/2306.06427)
@@ -188,5 +215,24 @@ I feel privileged to work with the following peers:
 - Shuai Yuan: PhD candidate from [KnowComp](https://github.com/HKUST-KnowComp), HKUST
 
 - [Siyu Ren](https://drsy.github.io/): PhD candidate from SJTU
+
+# 🤝 Academic Mentors
+
+I am grateful to the following academic mentors:
+
+- [Zhiyong Wu](https://lividwo.github.io/zywu.github.io/)
+
+- [Xiang Li](https://lixiang3776.github.io/)
+
+- [Lingpeng Kong](https://ikekonglp.github.io/)
+
+- [Xiaoli Li](https://www.a-star.edu.sg/i2r/about-i2r/i2r-management/li-xiaoli)
+
+- [Xipeng Qiu](https://xpqiu.github.io/)
+
+- [Xuesong Lu](https://scholar.google.com/citations?user=Xh484PAAAAAJ&hl=en)
+
+- [Weining Qian](https://scholar.google.com/citations?user=KqqoR6gAAAAJ&hl=zh-CN)
+  
 
 # 😊 Acknowledgement
