@@ -66,7 +66,7 @@ Fangzhi Xu, **Qiushi Sun**, Kanzhi Cheng, Jun Liu, Yu Qiao, Zhiyong Wu.
 
 <!-- Paper -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2024</div><img src='images/paper-thumbnails/UAG/UAG_New.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL'24</div><img src='images/paper-thumbnails/UAG/UAG_New.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Reasoning in Flux: Enhancing Large Language Models Reasoning through Uncertainty-aware Adaptive Guidance](qiushisun.github.io)
@@ -94,7 +94,7 @@ Fei Yuan, Chang Ma, Shuai Yuan, **Qiushi Sun**, Lei Li.
 
 <!-- Paper -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024/LLMAgents @ ICLR'24</div><img src='images/paper-thumbnails/SeeClick/SeeClick.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL'24/LLMAgents @ ICLR'24</div><img src='images/paper-thumbnails/SeeClick/SeeClick.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2401.10935)
@@ -108,7 +108,7 @@ Kanzhi Cheng, **Qiushi Sun**, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang
 
 <!-- Paper -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/paper-thumbnails/Symbol-LLM/Symbol-LLM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL'24</div><img src='images/paper-thumbnails/Symbol-LLM/Symbol-LLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models](https://arxiv.org/abs/2311.09278)
@@ -136,7 +136,7 @@ Fangzhi Xu, Zhiyong Wu, **Qiushi Sun**, Siyu Ren, Fei Yuan, Shuai Yuan, Qika Lin
 
 <!-- Paper -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2024</div><img src='images/paper-thumbnails/CodeRethinking/CodeRethinking.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN'24</div><img src='images/paper-thumbnails/CodeRethinking/CodeRethinking.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Rethinking the Role of Structural Information: How It Enhances Code Representation Learning?](qiushisun.github.io)
@@ -150,7 +150,7 @@ Fangzhi Xu, Zhiyong Wu, **Qiushi Sun**, Siyu Ren, Fei Yuan, Shuai Yuan, Qika Lin
 
 <!-- Paper -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/paper-thumbnails/CoK/Chain-of-Knowledge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL'24</div><img src='images/paper-thumbnails/CoK/Chain-of-Knowledge.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Boosting Language Models Reasoning with Chain-of-Knowledge Prompting](https://arxiv.org/abs/2306.06427)
@@ -191,6 +191,34 @@ Jianing Wang, Nuo Chen, **Qiushi Sun**, Wenkang Huang, Chengyu Wang and Ming Gao
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - HugNLP
+</div>
+</div>
+
+<!-- Paper -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL'23</div><img src='images/paper-thumbnails/SelfAware/know-unkown-quadrant.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Do Large Language Models Know What They Don’t Know?](https://aclanthology.org/2023.findings-acl.551/)
+
+Zhangyue Yin, **Qiushi Sun**, Qipeng Guo, Jiawen Wu, Xipeng Qiu and Xuanjing Huang.
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- LLMSA
+</div>
+</div>
+
+<!-- Paper -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP'22</div><img src='images/paper-thumbnails/CAT-Probing/cat-probing.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CAT-probing: A Metric-based Approach to Interpret How Pre-trained Models for Programming Language Attend Code Structure](https://aclanthology.org/2022.findings-emnlp.295/)
+
+Nuo Chen<sup>&#42;</sup>, **Qiushi Sun**<sup>&#42;</sup>, Renyu Zhu<sup>&#42;</sup>, Xiang Li, Xuesong Lu and Ming Gao.
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- cat-probing
 </div>
 </div>
 
