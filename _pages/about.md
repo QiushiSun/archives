@@ -122,7 +122,7 @@ Fangzhi Xu, Zhiyong Wu, **Qiushi Sun**, Siyu Ren, Fei Yuan, Shuai Yuan, Qika Lin
 
 <!-- Paper -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint/LLMAgents @ ICLR'24</div><img src='images/paper-thumbnails/Corex/Corex.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM'24/LLMAgents @ ICLR'24</div><img src='images/paper-thumbnails/Corex/Corex.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Corex: Pushing the Boundaries of Complex Reasoning through Multi-Model Collaboration](https://arxiv.org/abs/2310.00280)
@@ -236,17 +236,19 @@ I feel privileged to work with the following peers:
 
 - [Jianing Wang](https://wjn1996.github.io/): PhD candidate from [DaSE](https://dase.ecnu.edu.cn/), ECNU
 
-- [Chengcheng Han](https://hccngu.github.io/): PhD candidate from [DaSE](https://dase.ecnu.edu.cn/), ECNU
+- [Chengcheng Han](https://hccngu.github.io/): Researcher at Meituan, PhD candidate from [DaSE](https://dase.ecnu.edu.cn/), ECNU
 
-- Renyu Zhu: Postdoctoral Researcher at NetEase Fuxi AI Lab, PhD from [DaSE](https://dase.ecnu.edu.cn/), ECNU
+- [Renyu Zhu](https://scholar.google.com/citations?user=tSWULnAAAAAJ&hl=en-US): Postdoctoral Researcher at NetEase Fuxi AI Lab, PhD from [DaSE](https://dase.ecnu.edu.cn/), ECNU
 
 - Shuai Yuan: PhD candidate from [KnowComp](https://github.com/HKUST-KnowComp), HKUST
 
-- [Siyu Ren](https://drsy.github.io/): PhD candidate from SJTU
+- [Siyu Ren](https://drsy.github.io/): Researcher at Meituan, PhD candidate from SJTU
 
 # 🤝 Academic Mentors
 
 I am grateful to the following academic mentors:
+
+- [B.C.M Kao](https://www.cs.hku.hk/index.php/people/academic-staff/kao)
 
 - [Zhiyong Wu](https://lividwo.github.io/zywu.github.io/)
 
