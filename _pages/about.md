@@ -24,7 +24,7 @@ A digital sanctuary where my academic journey in Electrical Engineering and Comp
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=QgMkYFAAAAAJ'>google scholar citations <strong><span id='total_cit'>400+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=QgMkYFAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 <!-- 
 # 🔥 News
@@ -250,15 +250,17 @@ I feel privileged to work with the following peers:
 
 - Zhirui Chen: Master’s student from [DaSE](https://dase.ecnu.edu.cn/), ECNU
 
-- [Jianing Wang](https://wjn1996.github.io/): PhD candidate from [DaSE](https://dase.ecnu.edu.cn/), ECNU
+- [Jianing Wang](https://wjn1996.github.io/): PhD from [DaSE](https://dase.ecnu.edu.cn/), ECNU
 
-- [Chengcheng Han](https://hccngu.github.io/): Researcher at Meituan, PhD candidate from [DaSE](https://dase.ecnu.edu.cn/), ECNU
+- [Chengcheng Han](https://hccngu.github.io/): Researcher at Meituan, PhD from [DaSE](https://dase.ecnu.edu.cn/), ECNU
 
 - [Renyu Zhu](https://scholar.google.com/citations?user=tSWULnAAAAAJ&hl=en-US): Postdoctoral Researcher at NetEase Fuxi AI Lab, PhD from [DaSE](https://dase.ecnu.edu.cn/), ECNU
 
 - Shuai Yuan: PhD candidate from [KnowComp](https://github.com/HKUST-KnowComp), HKUST
 
-- [Siyu Ren](https://drsy.github.io/): Researcher at Meituan, PhD candidate from SJTU
+- [Siyu Ren](https://drsy.github.io/): Researcher at Meituan, PhD from SJTU
+
+- [Zichen Ding](https://heroding77.github.io/): Research Engineer at Shanghai AI Lab, Master’s student from [DaSE](https://dase.ecnu.edu.cn/), ECNU
 
 # 🤝 Academic Mentors
 
