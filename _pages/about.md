@@ -226,7 +226,7 @@ Zhangyue Yin, **Qiushi Sun**, Qipeng Guo, Jiawen Wu, Xipeng Qiu and Xuanjing Hua
 
 <!-- Paper -->
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP'22</div><img src='images/paper-thumbnails/CAT-Probing/cat-probing.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP'22</div><img src='images/paper-thumbnails/CAT-Probing/cat-probing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CAT-probing: A Metric-based Approach to Interpret How Pre-trained Models for Programming Language Attend Code Structure](https://aclanthology.org/2022.findings-emnlp.295/)
@@ -236,34 +236,9 @@ Nuo Chen<sup>&#42;</sup>, **Qiushi Sun**<sup>&#42;</sup>, Renyu Zhu<sup>&#42;</s
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - cat-probing
 </div>
-</div> -->
-
-<!-- # 📝 Before LLMs
-<div class='paper-section'>
-    <details>
-        <summary style="cursor: pointer; font-size: 1.2em; margin-bottom: 1em;">Click to Expand</summary>
-        <div class='paper-box'>
-            <div class='paper-box-image'>
-                <div>
-                    <div class="badge">EMNLP'22</div>
-                    <img src='images/paper-thumbnails/CAT-Probing/cat-probing.png' alt="sym" width="100%">
-                </div>
-            </div>
-            <div class='paper-box-text' markdown="1">
-                [CAT-probing: A Metric-based Approach to Interpret How Pre-trained Models for Programming Language Attend Code Structure](https://aclanthology.org/2022.findings-emnlp.295/)
-                <br>
-                Nuo Chen<sup>&#42;</sup>, **Qiushi Sun**<sup>&#42;</sup>, Renyu Zhu<sup>&#42;</sup>, Xiang Li, Xuesong Lu and Ming Gao.
-                <br>
-                [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-                - CAT-probing
-            </div>
-        </div>
-    </details>
 </div>
 
-<!-- Paper -->
-<!-- 
-# 🤝 Friends
+ # 🤝 Friends
 
 I feel privileged to work with the following peers:
 
@@ -304,70 +279,7 @@ I am grateful to the following academic mentors:
 - [Xuesong Lu](https://scholar.google.com/citations?user=Xh484PAAAAAJ&hl=en)
 
 - [Weining Qian](https://scholar.google.com/citations?user=KqqoR6gAAAAJ&hl=zh-CN)
-  
 
-# 😊 Acknowledgement  -->
-
-
-<!-- Before LLMs Section -->
-# 📝 Before LLMs
-<div class='paper-section'>
-    <details>
-        <summary style="cursor: pointer; font-size: 1.2em; margin-bottom: 1em;">Click to Expand</summary>
-        <div class='paper-box'>
-            <div class='paper-box-image'>
-                <div>
-                    <div class="badge">EMNLP'22</div>
-                    <img src='images/paper-thumbnails/CAT-Probing/cat-probing.png' alt="sym" width="100%">
-                </div>
-            </div>
-            <div class='paper-box-text' markdown="1">
-                [CAT-probing: A Metric-based Approach to Interpret How Pre-trained Models for Programming Language Attend Code Structure](https://aclanthology.org/2022.findings-emnlp.295/)
-                <br>
-                Nuo Chen<sup>&#42;</sup>, **Qiushi Sun**<sup>&#42;</sup>, Renyu Zhu<sup>&#42;</sup>, Xiang Li, Xuesong Lu and Ming Gao.
-                <br>
-                [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-                - CAT-probing
-            </div>
-        </div>
-    </details>
-</div>
-
-<!-- Friends Section -->
-# 🤝 Friends
-<div class="friends-section">
-    <h2>I feel privileged to work with the following peers:</h2>
-    <ul>
-        <li><a href="https://xufangzhi.github.io/">Fangzhi Xu</a>: PhD candidate from Xi’an Jiaotong University</li>
-        <li>Zhangyue Yin: PhD candidate from <a href="https://nlp.fudan.edu.cn/">Fudan NLP Lab</a></li>
-        <li>Zhirui Chen: Master’s student from <a href="https://dase.ecnu.edu.cn/">DaSE</a>, ECNU</li>
-        <li><a href="https://wjn1996.github.io/">Jianing Wang</a>: PhD from <a href="https://dase.ecnu.edu.cn/">DaSE</a>, ECNU</li>
-        <li><a href="https://hccngu.github.io/">Chengcheng Han</a>: Researcher at Meituan, PhD from <a href="https://dase.ecnu.edu.cn/">DaSE</a>, ECNU</li>
-        <li><a href="https://scholar.google.com/citations?user=tSWULnAAAAAJ&hl=en-US">Renyu Zhu</a>: Postdoctoral Researcher at NetEase Fuxi AI Lab, PhD from <a href="https://dase.ecnu.edu.cn/">DaSE</a>, ECNU</li>
-        <li>Shuai Yuan: PhD candidate from <a href="https://github.com/HKUST-KnowComp">KnowComp</a>, HKUST</li>
-        <li><a href="https://drsy.github.io/">Siyu Ren</a>: Researcher at Meituan, PhD from SJTU</li>
-        <li><a href="https://heroding77.github.io/">Zichen Ding</a>: Research Engineer at Shanghai AI Lab, Master’s student from <a href="https://dase.ecnu.edu.cn/">DaSE</a>, ECNU</li>
-    </ul>
-</div>
-
-<!-- Academic Mentors Section -->
-# 🤝 Academic Mentors
-<div class="mentors-section">
-    <h2>I am grateful to the following academic mentors:</h2>
-    <ul>
-        <li><a href="https://www.cs.hku.hk/index.php/people/academic-staff/kao">B.C.M Kao</a></li>
-        <li><a href="https://lividwo.github.io/zywu.github.io/">Zhiyong Wu</a></li>
-        <li><a href="https://lixiang3776.github.io/">Xiang Li</a></li>
-        <li><a href="https://ikekonglp.github.io/">Lingpeng Kong</a></li>
-        <li><a href="https://www.a-star.edu.sg/i2r/about-i2r/i2r-management/li-xiaoli">Xiaoli Li</a></li>
-        <li><a href="https://xpqiu.github.io/">Xipeng Qiu</a></li>
-        <li><a href="https://scholar.google.com/citations?user=Xh484PAAAAAJ&hl=en">Xuesong Lu</a></li>
-        <li><a href="https://scholar.google.com/citations?user=KqqoR6gAAAAJ&hl=zh-CN">Weining Qian</a></li>
-    </ul>
-</div>
-
-<!-- Acknowledgement Section -->
 # 😊 Acknowledgement
-<div class="acknowledgement-section">
-    <h2>Special thanks to everyone who has supported my journey!</h2>
-</div>
+
+Special thanks to everyone who has supported my journey!
