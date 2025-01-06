@@ -226,7 +226,7 @@ Zhangyue Yin, **Qiushi Sun**, Qipeng Guo, Jiawen Wu, Xipeng Qiu and Xuanjing Hua
 
 <!-- Paper -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP'22</div><img src='images/paper-thumbnails/CAT-Probing/cat-probing.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP'22</div><img src='images/paper-thumbnails/CAT-Probing/cat-probing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CAT-probing: A Metric-based Approach to Interpret How Pre-trained Models for Programming Language Attend Code Structure](https://aclanthology.org/2022.findings-emnlp.295/)
@@ -236,6 +236,80 @@ Nuo Chen<sup>&#42;</sup>, **Qiushi Sun**<sup>&#42;</sup>, Renyu Zhu<sup>&#42;</s
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - cat-probing
 </div>
+</div> -->
+
+
+<div class='paper-section'>
+    <h2>Before LLMs</h2>
+    <details>
+        <summary style="cursor: pointer; font-size: 1.2em; margin-bottom: 1em;">Click to Expand</summary>
+        <div class='paper-box'>
+            <div class='paper-box-image'>
+                <div>
+                    <div class="badge">EMNLP'22</div>
+                    <img src='images/paper-thumbnails/CAT-Probing/cat-probing.png' alt="sym" width="100%">
+                </div>
+            </div>
+            <div class='paper-box-text' markdown="1">
+                [CAT-probing: A Metric-based Approach to Interpret How Pre-trained Models for Programming Language Attend Code Structure](https://aclanthology.org/2022.findings-emnlp.295/)
+                <br>
+                Nuo Chen<sup>&#42;</sup>, **Qiushi Sun**<sup>&#42;</sup>, Renyu Zhu<sup>&#42;</sup>, Xiang Li, Xuesong Lu and Ming Gao.
+                <br>
+                [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+                - CAT-probing
+            </div>
+        </div>
+        <!-- <div class='paper-box'>
+            <div class='paper-box-image'>
+                <div>
+                    <div class="badge">ACL'23</div>
+                    <img src='images/paper-thumbnails/SelfAware/know-unkown-quadrant.jpg' alt="sym" width="100%">
+                </div>
+            </div>
+            <div class='paper-box-text' markdown="1">
+                [Do Large Language Models Know What They Don’t Know?](https://aclanthology.org/2023.findings-acl.551/)
+                <br>
+                Zhangyue Yin, **Qiushi Sun**, Qipeng Guo, Jiawen Wu, Xipeng Qiu and Xuanjing Huang.
+                <br>
+                [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+                - LLMSA
+            </div>
+        </div> -->
+        <!-- <div class='paper-box'>
+            <div class='paper-box-image'>
+                <div>
+                    <div class="badge">CIKM'23</div>
+                    <img src='images/paper-thumbnails/HugNLP/HugNLP.png' alt="sym" width="100%">
+                </div>
+            </div>
+            <div class='paper-box-text' markdown="1">
+                [HugNLP: A Unified and Comprehensive Library for Natural Language Processing](https://arxiv.org/abs/2302.14286)
+                <br>
+                Jianing Wang, Nuo Chen, **Qiushi Sun**, Wenkang Huang, Chengyu Wang and Ming Gao.
+                <br>
+                <span style="color: #C41E3A;"> 🏆 **Best Demo Paper Award**</span> <img src='images/paper-thumbnails/HugNLP/hugnlp-logo.png' style='width: 3.95em;'>
+                [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+                - HugNLP
+            </div>
+        </div> -->
+        <!-- <div class='paper-box'>
+            <div class='paper-box-image'>
+                <div>
+                    <div class="badge">LREC-COLING'24</div>
+                    <img src='images/paper-thumbnails/BBT-RGB/BBT-RGB-Pipeline.png' alt="sym" width="100%">
+                </div>
+            </div>
+            <div class='paper-box-text' markdown="1">
+                [Make Prompt-based Black-Box Tuning Colorful: Boosting Model Generalization from Three Orthogonal Perspectives](https://arxiv.org/abs/2305.08088)
+                <br>
+                **Qiushi Sun**, Chengcheng Han, Nuo Chen, Renyu Zhu, Jingyang Gong, Xiang Li and Ming Gao.
+                <br>
+                🥈 <span style="color: #C41E3A;"> **100K RMB Award-winning Solution** </span>
+                [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+                - International Algorithm Case Competition: PLM Tuning, Second Prize, Guangdong-Hong Kong-Macao Greater Bay Area
+            </div>
+        </div> -->
+    </details>
 </div>
 
 <!-- Paper -->
