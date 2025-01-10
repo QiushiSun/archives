@@ -233,18 +233,18 @@ Zhangyue Yin, **Qiushi Sun**, Qipeng Guo, Jiawen Wu, Xipeng Qiu and Xuanjing Hua
 
 Nuo Chen<sup>&#42;</sup>, **Qiushi Sun**<sup>&#42;</sup>, Renyu Zhu<sup>&#42;</sup>, Xiang Li, Xuesong Lu and Ming Gao.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&user=QgMkYFAAAAAJ&citation_for_view=QgMkYFAAAAAJ%3AqjMakFHDy7sC) <strong><span class='show_paper_citations' data='QgMkYFAAAAAJ%3AqjMakFHDy7sC'></span></strong>
 - cat-probing
 </div>
 </div>
 
- # 🤝 Friends
+# 🤝 Friends
 
 I feel privileged to work with the following peers:
 
 - [Fangzhi Xu](https://xufangzhi.github.io/): PhD candidate from Xi’an Jiaotong University
 
-- Zhangyue Yin: PhD candidate from [Fudan NLP Lab](https://nlp.fudan.edu.cn/)
+- [Zhangyue Yin](https://scholar.google.com/citations?user=9gRQqSkAAAAJ): PhD candidate from [Fudan NLP Lab](https://nlp.fudan.edu.cn/)
 
 - Zhirui Chen: Master’s student from [DaSE](https://dase.ecnu.edu.cn/), ECNU
 
