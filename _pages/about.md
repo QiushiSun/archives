@@ -18,13 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-A digital sanctuary where my academic journey in Electrical Engineering and Computer Science is chronicled.
+Welcome to the archives of my [personal homepage](https://qiushisun.github.io/), a digital sanctuary where my academic journey in Computer Science is chronicled. My research is dedicated to bridging the physical and digital worlds, with a particular focus on: Neural Code Intelligence and Autonomous Language Agents. I am also interested in broader deep learning topics, such as machine reasoning and efficiency.
 
-<!-- Welcome to my personal EECS study journal, a digital sanctuary where my academic journey in Electrical Engineering and Computer Science is chronicled. Herein lies a collection of insights and revelations, each note a testament to the power of learning and the strength of curiosity. -->
+This website is currently under construction. Please check back soon for updates!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=QgMkYFAAAAAJ'>google scholar citations <strong><span id='total_cit'>400+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=QgMkYFAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+... with total <a href='https://scholar.google.com/citations?user=QgMkYFAAAAAJ'>google scholar citations <strong><span id='total_cit'>400+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=QgMkYFAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 <!-- 
 # 🔥 News
@@ -283,3 +281,6 @@ I am grateful to the following academic mentors:
 # 😊 Acknowledgement
 
 Special thanks to everyone who has supported my journey!
+
+
+> "What's past is prologue." -- William Shakespeare (The Tempest)  
