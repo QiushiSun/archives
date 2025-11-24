@@ -18,9 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Welcome to the archives of my [personal homepage](https://qiushisun.github.io/), a digital sanctuary where my academic journey in Computer Science is chronicled. My research is dedicated to bridging the physical and digital worlds, with a particular focus on: Neural Code Intelligence and Autonomous Language Agents. I am also interested in broader deep learning topics, such as machine reasoning and efficiency.
+Welcome to the archives of my [personal homepage](https://qiushisun.github.io/), a digital sanctuary where my academic journey in Computer Science is chronicled. 
+<!-- My research is dedicated to bridging the physical and digital worlds, with a particular focus on: Neural Code Intelligence and Autonomous Language Agents. I am also interested in broader deep learning topics, such as machine reasoning and efficiency. -->
 
-This website is currently under construction. Please check back soon for updates!
+This website is currently under construction🚧. Please check back soon for updates!
 
 ... with total <a href='https://scholar.google.com/citations?user=QgMkYFAAAAAJ'>google scholar citations <strong><span id='total_cit'>400+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=QgMkYFAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
